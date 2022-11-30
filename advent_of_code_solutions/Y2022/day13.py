@@ -1,4 +1,4 @@
-from utils import get_input_file
+from advent_of_code_solutions.utils import get_input_file
 
 input_text = get_input_file(2022, 13)
 
