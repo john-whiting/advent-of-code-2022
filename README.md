@@ -10,7 +10,8 @@ These are the solutions I came up with for the [advent of code](https://adventof
 ## Setup
 
 1. Copy `config.json.default` to `config.json`
-2. Run `poetry install`
+2. Replace the `put your token here` with your session token for advent of code
+3. Run `poetry install`
 
 ## Running Solutions
 
